@@ -1,2 +1,1 @@
-# GroupProject
-Noi dung sai
+Nội dung đúng: README chính xác
